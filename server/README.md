@@ -7,3 +7,4 @@
 ### HTTP status code - 200, 404, 500, 400 
 
 ## 4. nodemon & morgan package setup
+## 5. API testing with POSTMAN

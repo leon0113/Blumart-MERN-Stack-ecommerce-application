@@ -8,3 +8,5 @@
 
 ## 4. nodemon & morgan package setup
 ## 5. API testing with POSTMAN
+## 6. Middleware in Express
+## 7. Express Error Handling Middleware

@@ -10,6 +10,4 @@
 ## 5. API testing with POSTMAN
 ## 6. Middleware in Express
 ## 7. Express Error Handling Middleware
-## 8. Testing errors in the server side rendering also () => {
-    hello wfhwqifwf so the web analytics
-}
+## 8. How to handle HTTP errors (package: npm install http-errors)
